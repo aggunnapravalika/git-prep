@@ -1,3 +1,10 @@
 commit 4
 revert CASE study
 .................
+
+line number 5
+/
+/
+/
+/
+line 10
